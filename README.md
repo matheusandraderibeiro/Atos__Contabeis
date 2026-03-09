@@ -1,0 +1,1 @@
+<img  src = "./src/img/Atos Contabeis Banner.svg" width = "100%" alt = "Banner Atos Contabeis"/>
